@@ -3,8 +3,8 @@
 ## I'm a Programmer, Student, Problem Slover, and Teacher!!
 
 - 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other Problem Slover and Programmer
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to illustrated and Photography
 
 ### Spotify Playing 🎧
