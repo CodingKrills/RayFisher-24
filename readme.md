@@ -1,7 +1,5 @@
 ### Hi there, I'm Arijit - aka [RayFisher-24] 👋
 
-[![Twitter Follow](https://twitter.com/ArijitEato](https://twitter.com/ArijitEato)
-
 ## I'm a Programmer, Student, Problem Slover, and Teacher!!
 
 - 🌱 I’m currently learning Java
