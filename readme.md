@@ -8,17 +8,16 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to illustrate
 
+## Skills
+
+- 👨‍💻 Java, JavaScript, Sql
+- ⚙️ HTML5, CSS3, Figma
+- 👁️ Git, GitHub, Heroku
+- 💽 MySQL, SQL, Mongo
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31lhrwdgbdbf7h5hzx6xd2jhmjoe)
-
-### Social Media
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/ArijitEato?label=Follow)](https://twitter.com/intent/follow?screen_name=arijiteato)
-[![Linkedin: anmol](https://img.shields.io/badge/-arijit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7//)](https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7/)
-![GitHub followers](https://img.shields.io/github/followers/RayFisher-24?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=)]()
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 
 ### Languages and Tools:
 
@@ -36,3 +35,10 @@
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
+### Social Media
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/ArijitEato?label=Follow)](https://twitter.com/intent/follow?screen_name=arijiteato)
+[![Linkedin: anmol](https://img.shields.io/badge/-arijit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7//)](https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7/)
+![GitHub followers](https://img.shields.io/github/followers/RayFisher-24?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=)]()
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
