@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/github.png"/>
+  <img style="width:8rem; height:auto" src="https://fcbk.su/_data/stickers/hacker_boy/hacker_boy_12.png"/>
 </p>
 
 <h2>नमस्ते (Namaste)🙏🏻, I'm Arijit! <img src="https://c.tenor.com/nz2nnGCEYH8AAAAj/micacalala-michi.gif" width="50"></h2>
