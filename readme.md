@@ -5,17 +5,22 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Arijit! <img src="https://c.tenor.com/nz2nnGCEYH8AAAAj/micacalala-michi.gif" width="50"></h2>
 
 
-- 🌱 I’m currently learning MERN 
-- 👯 I’m looking to collaborate with other Problem Slover and Programmer
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning MERN Stack
+- 👯 I’m looking to collaborate with open Minded People
+- 🥅 2022 Goals: Becaming a Software Engineer
 - ⚡ Fun fact: I love to illustrate
 
 ## Skills
 
-- 👨‍💻 Java, JavaScript, Python
+- 👨‍💻 Java, JavaScript, SQL
 - ⚙️ HTML5, CSS3, Figma
 - 👁️ Git, GitHub, Heroku
 - 💽 MySQL, SQL, Mongo
+
+
+## Spotify Playing 🎧
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
 ## Languages and Tools
 
@@ -29,13 +34,9 @@
 [<img align="left" alt="Git" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/Git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Code Music Spotify Playing" width="350" />](https://open.spotify.com/user/31lhrwdgbdbf7h5hzx6xd2jhmjoe)
-
-## Social Media
+## Social Media 📭
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArijitEato?label=Follow)](https://twitter.com/intent/follow?screen_name=arijiteato)
 [![Linkedin: anmol](https://img.shields.io/badge/-arijit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7//)](https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7/)
@@ -43,7 +44,9 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=)]()
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 
-**I'm an Early 🐤** 
+## Super Power
+
+🐤 **I'm an Early** 
 
 ```text
 🌞 Morning    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
@@ -52,6 +55,7 @@
 🌙 Night      56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.89%
 
 ```
+
 📅 **I'm Most Productive on Sunday** 
 
 ```text
@@ -79,16 +83,16 @@ SQL                      53 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 VsCode                   22 hrs 56 mins      ███████████████████░░░░░░   78.96% 
-git                      4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81% 
+Git                      4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81% 
 GitHub                   56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24% 
-PyCharm                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
+Eclipse                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 
 💻 Operating System: 
 Windows                  29 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+📟 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
