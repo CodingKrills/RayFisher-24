@@ -1,12 +1,12 @@
 
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Arijit! <img src="https://c.tenor.com/nz2nnGCEYH8AAAAj/micacalala-michi.gif" width="50"></h2>
-<img align='right' alt="image" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate with other Problem Slover and Programmer
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to illustrated and Photography
+- ⚡ Fun fact: I love to illustrate
 
 ### Spotify Playing 🎧
 
