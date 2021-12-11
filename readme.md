@@ -33,7 +33,7 @@
 [<img align="left" alt="Git" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/Git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
-##
+############################################################
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArijitEato?label=Follow)](https://twitter.com/intent/follow?screen_name=arijiteato)
 [![Linkedin: anmol](https://img.shields.io/badge/-arijit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7//)](https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7/)
