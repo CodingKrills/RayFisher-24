@@ -15,11 +15,11 @@
 - 👁️ Git, GitHub, Heroku
 - 💽 MySQL, SQL, Mongo
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31lhrwdgbdbf7h5hzx6xd2jhmjoe)
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
@@ -35,7 +35,7 @@
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
-### Social Media
+## Social Media
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArijitEato?label=Follow)](https://twitter.com/intent/follow?screen_name=arijiteato)
 [![Linkedin: anmol](https://img.shields.io/badge/-arijit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7//)](https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7/)
