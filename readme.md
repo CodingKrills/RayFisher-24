@@ -3,7 +3,7 @@
 </p>
 
 <h2>नमस्ते (Namaste)🙏🏻, I'm Arijit! <img src="https://c.tenor.com/nz2nnGCEYH8AAAAj/micacalala-michi.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate with other Problem Slover and Programmer
@@ -12,7 +12,7 @@
 
 ## Skills
 
-- 👨‍💻 Java, JavaScript, Sql
+- 👨‍💻 Java, JavaScript, Python
 - ⚙️ HTML5, CSS3, Figma
 - 👁️ Git, GitHub, Heroku
 - 💽 MySQL, SQL, Mongo
@@ -28,6 +28,8 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]("https://code.visualstudio.com/download")
 [<img align="left" alt="Git" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/Git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Spotify Playing 🎧
 
