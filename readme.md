@@ -17,10 +17,6 @@
 - 👁️ Git, GitHub, Heroku
 - 💽 MySQL, SQL, Mongo
 
-## Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Code Music Spotify Playing" width="350" />](https://open.spotify.com/user/31lhrwdgbdbf7h5hzx6xd2jhmjoe)
-
 ## Languages and Tools
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
@@ -33,7 +29,17 @@
 [<img align="left" alt="Git" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/Git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
-###
+## Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Code Music Spotify Playing" width="350" />](https://open.spotify.com/user/31lhrwdgbdbf7h5hzx6xd2jhmjoe)
+
+## Social Media
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/ArijitEato?label=Follow)](https://twitter.com/intent/follow?screen_name=arijiteato)
+[![Linkedin: anmol](https://img.shields.io/badge/-arijit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7//)](https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7/)
+![GitHub followers](https://img.shields.io/github/followers/RayFisher-24?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=)]()
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 
 **I'm an Early 🐤** 
 
