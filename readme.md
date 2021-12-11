@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+</p>
 
 <h2>नमस्ते (Namaste)🙏🏻, I'm Arijit! <img src="https://c.tenor.com/nz2nnGCEYH8AAAAj/micacalala-michi.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -17,7 +19,7 @@
 
 ## Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31lhrwdgbdbf7h5hzx6xd2jhmjoe)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Code Music Spotify Playing" width="350" />](https://open.spotify.com/user/31lhrwdgbdbf7h5hzx6xd2jhmjoe)
 
 ## Languages and Tools:
 
@@ -30,10 +32,6 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]("https://code.visualstudio.com/download")
 [<img align="left" alt="Git" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/Git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-
-<p align="left">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
 
 ## Social Media
 
