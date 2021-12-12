@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 👯 I'm open to collaborate with you
 - 🥅 2022 Goals: Becaming a Software Engineer
-- ⚡ Fun fact: I love to illustrate Doodle
+- ⚡ Fun fact: I love to illustrate Doodles
 
 ## Skills <img src="https://c.tenor.com/nz2nnGCEYH8AAAAj/micacalala-michi.gif" width="50">
 
