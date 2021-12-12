@@ -5,9 +5,9 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Arijit! </h2>
 
 - 🌱 I’m currently learning MERN Stack
-- 👯 I am open for collaborate 
+- 👯 I'm open to collaborate with you
 - 🥅 2022 Goals: Becaming a Software Engineer
-- ⚡ Fun fact: I love to illustrate
+- ⚡ Fun fact: I love to illustrate Doodle
 
 ## Skills <img src="https://c.tenor.com/nz2nnGCEYH8AAAAj/micacalala-michi.gif" width="50">
 
@@ -45,7 +45,7 @@
 
 ## Super Power <img src="https://img.icons8.com/color/48/000000/batman.png" width="25"/>
 
-🐤 **I'm an Early** 
+**I'm an Early** 🐤 
 
 ```text
 🌞 Morning    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
@@ -55,7 +55,7 @@
 
 ```
 
-📅 **I'm Most Productive on Sunday** 
+**I'm Most Productive on Sunday** 📅 
 
 ```text
 Monday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
@@ -69,7 +69,7 @@ Sunday       89 commits     ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+ **This Week I Spent My Time On** 📊 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
@@ -91,7 +91,7 @@ Windows                  29 hrs 3 mins       ███████████�
 
 ```
 
-📟 **I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript** 📟 
 
 ```text
 JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
