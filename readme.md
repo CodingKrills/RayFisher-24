@@ -2,25 +2,19 @@
   <img style="width:8rem; height:auto" src="https://fcbk.su/_data/stickers/hacker_boy/hacker_boy_12.png"/>
 </p>
 
-<h2>नमस्ते (Namaste)🙏🏻, I'm Arijit! <img src="https://c.tenor.com/nz2nnGCEYH8AAAAj/micacalala-michi.gif" width="50"></h2>
-
+<h2>नमस्ते (Namaste)🙏🏻, I'm Arijit! </h2>
 
 - 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate with open Minded People
+- 👯 I am open for collaborate 
 - 🥅 2022 Goals: Becaming a Software Engineer
 - ⚡ Fun fact: I love to illustrate
 
-## Skills
+## Skills <img src="https://c.tenor.com/nz2nnGCEYH8AAAAj/micacalala-michi.gif" width="50">
 
 - 👨‍💻 Java, JavaScript, SQL
 - ⚙️ HTML5, CSS3, Figma
 - 👁️ Git, GitHub, Heroku
 - 💽 MySQL, SQL, Mongo
-
-
-## Spotify Playing 🎧
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
 ## Languages and Tools
 
@@ -36,7 +30,12 @@
 
 <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Social Media 📭
+
+## Spotify Playing 🎧
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+
+## Social Media
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArijitEato?label=Follow)](https://twitter.com/intent/follow?screen_name=arijiteato)
 [![Linkedin: anmol](https://img.shields.io/badge/-arijit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7//)](https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7/)
@@ -44,7 +43,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=)]()
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 
-## Super Power
+## Super Power <img src="https://img.icons8.com/color/48/000000/batman.png" width="25"/>
 
 🐤 **I'm an Early** 
 
