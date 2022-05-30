@@ -14,7 +14,7 @@
 - 👨‍💻 Java, JavaScript
 - ⚙️ HTML5, CSS3, Figma
 - 👁️ Git, GitHub, Heroku
-- 💽 SQLite, SQL
+- 💽 SQLite, SQL, Firebase
 
 ## Languages and Tools
 
