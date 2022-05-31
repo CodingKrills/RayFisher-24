@@ -21,7 +21,7 @@
 - Domain (for business logic and models)
 - Presentation (for UI logic, with MVVM)
 
- <img src="images/AndroidTemplate-CleanArchitecture.png" alt="ArchiTecture logo"/>
+ <img src="https://github.com/blocoio/android-template/raw/master/images/AndroidTemplate-CleanArchitecture.png" alt="ArchiTecture logo"/>
 
 ## Languages and Tools
 
