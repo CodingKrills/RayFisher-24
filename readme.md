@@ -26,7 +26,7 @@
 [<img align="left" alt="Git" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/Git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
-<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='center' src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/android.png" width="230">
 
 ## Spotify Playing 🎧
 
