@@ -33,15 +33,14 @@
 [<img align="left" alt="Git" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/Git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
-<!--- <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 ## Spotify Playing 🎧
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
-## Social Media -->
-
+## Social Media
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArijitEato?label=Follow)](https://twitter.com/intent/follow?screen_name=arijiteato)
 [![Linkedin: anmol](https://img.shields.io/badge/-arijit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7//)](https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7/)
 ![GitHub followers](https://img.shields.io/github/followers/RayFisher-24?label=Follow&style=social)
