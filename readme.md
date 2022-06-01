@@ -28,7 +28,7 @@
 
 <img align='center' src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/android.png" width="230">
 
-## Spotify Playing 🎧
+## Spotify Playing 
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
@@ -46,7 +46,7 @@
 
 ## Super Power <img src="https://img.icons8.com/color/48/000000/batman.png" width="25"/>
 
-**I'm Flexible** 💪
+**I'm Flexible** 
 
 ```text
 🌞 Morning    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
@@ -56,7 +56,7 @@
 
 ```
 
-**I'm Most Productive on Sunday** 📅 
+**I'm Most Productive on Sunday**  
 
 ```text
 Monday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
