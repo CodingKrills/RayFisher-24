@@ -11,17 +11,10 @@
 
 ## Skills <img src="https://c.tenor.com/nz2nnGCEYH8AAAAj/micacalala-michi.gif" width="50">
 
-- 👨‍💻 Java, JavaScript
-- ⚙️ HTML5, CSS3, Figma
-- 👁️ Git, GitHub, Heroku
-- 💽 SQLite, SQL, Firebase
-
-## Clean architecture with 3 layers
-- Data (for database, API and preferences code)
-- Domain (for business logic and models)
-- Presentation (for UI logic, with MVVM)
-
- <img src="https://github.com/blocoio/android-template/raw/master/images/AndroidTemplate-CleanArchitecture.png" alt="ArchiTecture logo"/>
+- 👨‍💻 Programming Language - Java, JavaScript
+- ⚙️ Frameworks/IDE - Android Studio, Eclipse, Vs code
+- 👁️ Database - SQLite, Firebase
+- 💽 Version Control System - Git, GitHub
 
 ## Languages and Tools
 
@@ -34,7 +27,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
 <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 
 ## Spotify Playing 🎧
 
