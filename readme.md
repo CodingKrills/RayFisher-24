@@ -44,7 +44,7 @@
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-## Super Power <img src="https://img.icons8.com/color/48/000000/batman.png" width="25"/>
+## Productivity
 
 **I'm Flexible** 
 
