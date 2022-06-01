@@ -4,7 +4,7 @@
 
 <h2>नमस्ते (Namaste)🙏🏻, I'm Arijit! </h2>
 
-- 🌱 I’m currently learning Advanced Android
+- 🌱 I’m currently learning Advanced Android 
 - 👯 I'm open to collaborate with you
 - 🥅 2022 Goals: Becaming a Software Engineer
 - ⚡ Fun fact: I love to illustrate Doodles
@@ -25,21 +25,22 @@
 
 ## Languages and Tools
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="Java" width="26px" src="[https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/Java.png](https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/java.png)" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
+[<img align="left" alt="JavaScript" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/java-script.png" />]()
+[<img align="left" alt="Java" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/java.png" />]()
+[<img align="left" alt="SQL" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/sql-server.png" />]()
+[<img align="left" alt="Android Studio" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/android-studio.png" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]("https://code.visualstudio.com/download")
 [<img align="left" alt="Git" width="26px" src="https://github.com/RayFisher-24/RayFisher-24/blob/master/icons/Git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
-<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!--- <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 ## Spotify Playing 🎧
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
-## Social Media
+## Social Media -->
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArijitEato?label=Follow)](https://twitter.com/intent/follow?screen_name=arijiteato)
 [![Linkedin: anmol](https://img.shields.io/badge/-arijit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7//)](https://www.linkedin.com/in/arijit-mondal-8ab6ab1b7/)
