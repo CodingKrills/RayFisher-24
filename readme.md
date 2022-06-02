@@ -1,6 +1,4 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://fcbk.su/_data/stickers/hacker_boy/hacker_boy_12.png"/>
-</p>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h2>नमस्ते (Namaste)🙏🏻, I'm Arijit! </h2>
 
@@ -74,7 +72,10 @@ Operating System 💻
 Windows      29 hrs 3 mins █████████████████████████   100.0%
 
 ```
+
 <!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayfisher-24&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RayFisher-24)](https://github.com/anuraghazra/github-readme-stats)
   </p>
 
