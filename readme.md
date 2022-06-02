@@ -74,3 +74,9 @@ Operating System 💻
 Windows      29 hrs 3 mins █████████████████████████   100.0%
 
 ```
+<!--
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RayFisher-24)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+
+ [![Velmurugan Murugesan's github stats](https://github-readme-stats.vercel.app/api?username=RayFisher-24&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+  </p> -->
