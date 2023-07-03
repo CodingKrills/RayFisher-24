@@ -29,6 +29,9 @@
     z-index: 99;
 }
 
+.logo{
+    background-color:#2124B1;
+}
 
 /*** Heading ***/
 h1,
@@ -180,6 +183,14 @@ h6,
     }
 }
 
+.center {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #1D1D27;
+    padding-left: 40px;
+    padding-right: 40px;
+}
 
 /*** Hero Header ***/
 .hero-header {
