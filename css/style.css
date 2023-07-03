@@ -183,6 +183,11 @@ h6,
     }
 }
 
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 .center {
     display: flex;
     text-align: center;
