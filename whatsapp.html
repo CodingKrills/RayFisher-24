@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <link rel="stylesheet" href="css/floating-wpp.css">
+    <script type="text/javascript" src="js/floating-wpp.js"></script>
+    <link href="styless.css" rel="stylesheet">
+   
+</head>
+<body>
+    
+    <div id="myButton"></div>
+    
+        <main>
+            <section>
+                <h2 class="section-header">About Us</h2>
+                <p class="section-content">
+                    Insert your about us content here. This section can include information about your company, its mission, values, and any other relevant details that you want to highlight.
+                </p>
+            </section>
+    
+            <section>
+                <h2 class="section-header">Our Experience</h2>
+                <p class="section-content">
+                    Insert your experience content here. This section can showcase your company's expertise, achievements, or any significant projects or milestones you have accomplished. Provide details to demonstrate your credibility and expertise in your field.
+                </p>
+            </section>
+        </main>
+    </div>
+    
+    
+      
+</body>
+<script type="text/javascript">
+    $(function () {
+        $('#myButton').floatingWhatsApp({
+            phone: '9874335955',
+            popupMessage: 'Hello, how can we help you?',
+            message: "I'd like to Make a ",
+            showPopup: true,
+            showOnIE: false,
+            headerTitle: 'Welcome!',
+            headerColor: 'crimson',
+            backgroundColor: 'crimson',
+            buttonImage: '<img src="whatsapp.svg" />'
+        });
+    });
+</script>
