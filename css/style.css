@@ -184,7 +184,7 @@ h6,
 }
 
 body {
-    max-width: 100%;
+    max-width: 100;
     overflow-x: hidden;
 }
 
@@ -192,7 +192,7 @@ body {
     display: flex;
     text-align: center;
     justify-content: center;
-    color: #1D1D27;
+    color: #000000;
     padding-left: 40px;
     padding-right: 40px;
 }
