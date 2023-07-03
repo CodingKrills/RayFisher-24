@@ -6,7 +6,15 @@
     --dark: #1D1D27;
 }
 
-
+body{
+    overflow-x: hidden;
+}
+@media screen and (max-width: 480px) {
+    body {
+       max-height: 100vh;
+       overflow-y: hidden;
+    }
+}
 /*** Spinner ***/
 #spinner {
     opacity: 0;
@@ -183,10 +191,6 @@ h6,
     }
 }
 
-body {
-    max-width: 100;
-    overflow-x: hidden;
-}
 
 .center {
     display: flex;
