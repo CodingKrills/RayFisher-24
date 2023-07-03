@@ -6,13 +6,10 @@
     --dark: #1D1D27;
 }
 
-body{
-    overflow-x: hidden;
-}
 @media screen and (max-width: 480px) {
     body {
        max-height: 100vh;
-       overflow-y: hidden;
+       overflow-x: hidden;
     }
 }
 /*** Spinner ***/
