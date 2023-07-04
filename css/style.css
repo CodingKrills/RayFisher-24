@@ -13,6 +13,19 @@
     }
 }
 
+ .my-contact-details {
+    margin-top: 2px;
+    padding: 15px;
+    color: white;
+    border: 20px solid #ffffff;
+    background-color: #2124B1;
+    text-align: center;
+    flex-basis: auto;
+  }
+.contact-svg{
+    color: white;
+}
+
 .container h1{
   color: #fff;
   text-align: center;
