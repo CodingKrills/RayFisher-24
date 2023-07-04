@@ -252,11 +252,11 @@
             Email.send({
                 Host : "smtp.elasticemail.com",
                 Username : "arijitmondal0024@gmail.com",
-                Password : "",
-                To : 'arijitmondal0024@gmail.com',
+                Password : "9F16920C25F303525C75B2AE36D8AA454B20",
+                To : "arijitmondal0024@gmail.com",
                 From : document.getElementById("email").value,
                 Subject : "Subject",
-                Body : "Name:"
+                Body : "Name:" + document.getElementById("name").value 
             }).then(
               message => alert(message)
             );
